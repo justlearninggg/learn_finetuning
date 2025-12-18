@@ -1,0 +1,15 @@
+# 忽略模型文件
+models/
+checkpoints/
+*.bin
+*.pth
+*.safetensors
+*.pt
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略日志和临时文件
+logs/
+.ipynb_checkpoints/

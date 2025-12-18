@@ -1,0 +1,6 @@
+cache_dir: null
+hub_name: modelscope
+lang: zh
+last_model: Qwen3-1.7B-Thinking
+path_dict:
+  Qwen3-1.7B-Thinking: /home/lcx/self-llm/models/Qwen3/Qwen/Qwen3-1.7B
