@@ -13,3 +13,8 @@ __pycache__/
 # 忽略日志和临时文件
 logs/
 .ipynb_checkpoints/
+
+Qwen3-VL/images/
+Qwen3-VL/vidoes/
+Qwen3-VL/*.keep
+# 以及其他你想在GitHub上隐藏的路径
